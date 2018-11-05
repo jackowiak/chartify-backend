@@ -24,7 +24,7 @@
   <p><code>$ git clone https://github.com/jackowiak/chartify-backend.git</code></p>
   <p><code>$ cd chartify-backend</code></p>
   <p><code>$ npm install </code></p>
-  <p><code>$ cd web-api-auth-examples/authorization_code</code></p>
+  <p><code>$ cd authorization_code</code></p>
   <p><code>$ node app.js </code></p>
   <h5>Client side</h5>
   <p>To run client-side, check this repo: https://github.com/jackowiak/chartify</p>
