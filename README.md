@@ -6,7 +6,7 @@
 <hr />
 
 <div>
-  <h4><strong>This repo is customized code of Spotify's Authentication Flow example app from GitHub.</strong></h4>
+  <strong>IMPORTANT! This repo is customized code of Spotify's Authentication Flow example app from GitHub.</strong>
 </div>
 
 <hr />
